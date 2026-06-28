@@ -15,7 +15,3 @@
 **[下载 Windows 桌面版 v0.1.2](https://github.com/xuhongming251/Agent-Team/releases/download/v0.1.2/Agent-Team-Setup-0.1.2.exe)**（点击直接下载）
 
 👉 官网：[web.agent-team.tech](http://web.agent-team.tech/) ｜ [查看所有版本与更新记录](https://github.com/xuhongming251/Agent-Team/releases/latest)
-
----
-
-> 本仓库用于发布桌面端安装包与自动更新元数据，不含源代码。
