@@ -10,7 +10,11 @@
 - 🔐 **100% 本地执行**：支持 Claude / Codex，用自己的 Key，数据与密钥都在你机器上
 - 📦 **真·交付物**：产物集中管理，可预览、下载、打包另存
 
-### 👉 进入官网下载：[web.agent-team.tech](http://web.agent-team.tech/)
+## ⬇️ 立即下载
+
+**[下载 Windows 桌面版 v0.1.2](https://github.com/xuhongming251/Agent-Team/releases/download/v0.1.2/Agent-Team-Setup-0.1.2.exe)**（点击直接下载）
+
+👉 官网：[web.agent-team.tech](http://web.agent-team.tech/) ｜ [查看所有版本与更新记录](https://github.com/xuhongming251/Agent-Team/releases/latest)
 
 ---
 
